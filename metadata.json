@@ -1,0 +1,6 @@
+{
+  "name": "KenyaOne Shop — Live Commerce, Online Shops & Auctions",
+  "description": "Kenya's premier live commerce marketplace: livestream product drops, real-time KenyaOne Rapid Auctions, verified Kenyan seller storefronts, M-Pesa integration, and global exports.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
